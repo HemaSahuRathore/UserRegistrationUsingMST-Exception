@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegistrationWithMSTestNExceptiom", "UserRegistrationWithMSTestNExceptiom\UserRegistrationWithMSTestNExceptiom.csproj", "{10DD44C0-AA60-4414-93E7-C95FC7C52EC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegexUnitTest", "UserRegexUnitTest\UserRegexUnitTest.csproj", "{95D102A1-DFA3-4B0B-897E-18D761ED1081}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{10DD44C0-AA60-4414-93E7-C95FC7C52EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10DD44C0-AA60-4414-93E7-C95FC7C52EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10DD44C0-AA60-4414-93E7-C95FC7C52EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D102A1-DFA3-4B0B-897E-18D761ED1081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D102A1-DFA3-4B0B-897E-18D761ED1081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D102A1-DFA3-4B0B-897E-18D761ED1081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D102A1-DFA3-4B0B-897E-18D761ED1081}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
